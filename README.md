@@ -54,5 +54,9 @@ Check out our interactive web app built to help CSULB students report and stay i
 Get more information here [https://devpost.com/software/safety-shark-k9nv8e]  
 
 
+4. AI Studio Project  
+Have not started. Will be updated soon!  
+👀 Curious? See the full project here [https://github.com/hanshim5/AI-Studio-Project.git]  
+
 #**✨ Fun Fact:**  
 A freshly sharpened pencil is my favorite sidekick—you’ll usually find me solving logic puzzles for fun, scheming my next escape room strategy, or breaking down tough concepts while tutoring students (bonus points if they leave smiling and a little more confident).  
