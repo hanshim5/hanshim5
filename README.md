@@ -44,7 +44,7 @@ See the code project here (Go to week9 folder) [https://github.com/hanshim5/My-e
 3. Safety Shark – CSULB Campus Incident Reporting Map  
 Check out our interactive web app built to help CSULB students report and stay informed about safety incidents on campus. Inspired by real posts on the CSULB subreddit, our team designed a map-based tool that empowers students to identify potential danger zones and promote campus safety through community awareness.  
 
-🛠 Tools: React, Vite, Tailwind CSS, Google Maps API  
+Tools: React, Vite, Tailwind CSS, Google Maps API  
 What We Did: Built a dynamic interface allowing users to report incidents by placing markers on a campus map, including custom titles, descriptions, and images. Integrated Google Maps API for real-time location data and used state management with React Hooks to handle marker and sidebar interactions.  
 Results: Created a fully functional MVP with live incident tracking and clickable markers. Improved accessibility of safety info for CSULB students and plan to pitch the app to CSULB for potential adoption.  
 
@@ -54,4 +54,4 @@ Get more information here [https://devpost.com/software/safety-shark-k9nv8e]
 
 4. AI Studio Project  
 Have not started. Will be updated soon!  
-👀 Curious? See the full project here [https://github.com/hanshim5/AI-Studio-Project.git]  
+See the full project here [https://github.com/hanshim5/AI-Studio-Project.git]  
